@@ -28,10 +28,10 @@ images:      /assets/images
 fonts:       /assets/fonts
 
 # GLOBAL
-global_stylesheets: /cpuaff/assets/stylesheets
-global_javascripts: /cpuaff/assets/javascripts
-global_images:      /cpuaff/assets/images
-global_fonts:       /cpuaff/assets/fonts
+global_stylesheets: /assets/stylesheets
+global_javascripts: /assets/javascripts
+global_images:      /assets/images
+global_fonts:       /assets/fonts
 
 # ----------------------- #
 #     Plugin Configs      #
