@@ -5,7 +5,7 @@ layout: slate
 
 ### About
 
-We are pleased to announce the formation of the C++ Practitioners Forum (https://cpppractitioners.github.io).  The group is designed to encourage discussion of C++ related topics among industry participants.  Our aim is to meet quarterly and engage in relevant discussions about C++ topics.
+We are pleased to announce the formation of the C++ Practitioners Forum (https://cpppractitioners.github.io).  This Chicago based group is designed to encourage discussion of C++ related topics among industry participants.  Our aim is to meet quarterly and engage in relevant discussions about C++ topics.
 
 Participants will be able to give short presentations on “tricks of the trade”, current coding issues, interesting third party libraries, and other relevant topics.  Subsequently, the group will spend time discussing the presentations, offering ideas and comments and engaging in discourse regarding the presentations.
 
