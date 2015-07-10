@@ -1,0 +1,59 @@
+# ----------------------- #
+#     Site Variables      #
+# ----------------------- #
+
+name: C++ Practitioners Forum
+author: Daniel C. Dillon (dcdillon)
+url: 'http://cpppractitioners.github.io/'
+
+copyright_message: '&copy; 2015 Daniel C. Dillon'
+title: "C++ Practitioners Forum"
+subtitle: ""
+
+github_url: https://github.com/cpppractitioners
+github_username: cpppractitioners
+
+#github_license:
+#github_license_url:
+
+
+# ----------------------- #
+#       Site Paths        #
+# ----------------------- #
+
+# LOCAL
+stylesheets: /assets/stylesheets
+javascripts: /assets/javascripts
+images:      /assets/images
+fonts:       /assets/fonts
+
+# GLOBAL
+global_stylesheets: /cpuaff/assets/stylesheets
+global_javascripts: /cpuaff/assets/javascripts
+global_images:      /cpuaff/assets/images
+global_fonts:       /cpuaff/assets/fonts
+
+# ----------------------- #
+#     Plugin Configs      #
+# ----------------------- #
+
+#google_analytics_id: 
+#google_analytics_name: 
+
+source_title_prefix: "GitHub: cpppractitioners"
+source_url: 'https://github.com/cpppractitioners'
+
+# ----------------------- #
+#     Jekyll Configs      #
+# ----------------------- #
+
+#source: source
+destination: _public
+plugins: 	 _plugins
+
+exclude: [LICENSE.md]
+
+relative_permalinks: false
+markdown: redcarpet
+pygments: true
+
