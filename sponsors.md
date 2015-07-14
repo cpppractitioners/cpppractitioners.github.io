@@ -7,4 +7,4 @@ layout: slate
 
 We would like to thank our sponsors:
 
-![Ketchum Trading](/images/ketchum_trading.png)
+[![Ketchum Trading](/images/ketchum_trading.png)](http://www.ketchumtrading.com)
